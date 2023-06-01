@@ -1,0 +1,2 @@
+# JavaFunctionalFunctionalInterfacesConsumer
+Describe Consumer Functional Interface inside function Package
